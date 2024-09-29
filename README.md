@@ -1,1 +1,1 @@
-This is a program built in Java for calculating the inverse of a matrix. The order of the matrix and individual inputs are to be provided, the output shown displays the inverse of that particular matrix.
+This is a program built in Java for calculating the inverse of a matrix. The order of the matrix and individual elements of the matrix are to be provided, and the output shown displays the inverse of that particular matrix.
